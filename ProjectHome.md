@@ -1,0 +1,3 @@
+Maxsi Technology is an umbrella term for a bunch of software projects developed by the Maxsi Project. It refers to software such as Maxsi Library (a general purpose C++ library), Maxsi Distribution (an experimental digital distribution platform), Maxsi WebUtils (a collection of useful php scripts), Maxsi WRS (a simple and flexible website revision system), and so on.
+
+Depending on what kind of project (and its use), the subprojects are licensed under various licenses. The programs are usually the GNU General Public License Version 3 (or later), the libraries are released under GNU Lesser General Public Licensed Version 3 (or later), and the website systems are released under the GNU Affero General Public License version 3 (or later).
